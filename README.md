@@ -1,6 +1,6 @@
 # 🧑‍💻 Sobre o projeto !
 
-Nesse projeto avançamos mais sobre formulários no HTML apredemos sobre o campo select, checkbox, além da estilização através do CSS.
+Nesse projeto avancei mais sobre formulários no HTML apredemos sobre o campo select, checkbox, além da estilização através do CSS.
 
 ## 💻 Demonstração
 
